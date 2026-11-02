@@ -4,6 +4,10 @@
 
 Fine-tuning foundation models for surgical scene understanding: this thesis studies **SAM2** on ophthalmic surgical images and its integration into **SASVi** for video segmentation.
 
+<p align="center">
+  <img src="./assets/sam2-sasvi-segmentation.gif" alt="Animated project explainer: prompting, SAM2 segmentation, SASVi mask propagation, and spatial and temporal evaluation" width="100%" />
+</p>
+
 **Author:** Steve Jordi Nyami Gochui  
 **Thesis title:** *Fine-Tuning SAM2 for Temporally Consistent Semantic Segmentation of Surgical Videos with SASVi*  
 **Date shown on the poster:** November 27, 2025
